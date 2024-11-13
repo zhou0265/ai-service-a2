@@ -1,6 +1,6 @@
 # ai-service
 
-This is a FastAPI app that provides an API for interacting with OpenAI models using [Semantic Kernel SDK](https://github.com/microsoft/semantic-kernel). It is meant to be used in conjunction with the [store-admin](../store-admin) app.
+This is a FastAPI app that provides an API for interacting with OpenAI models using [Semantic Kernel SDK](https://github.com/microsoft/semantic-kernel). It is meant to be used in conjunction with the store-admin app.
 
 ## Running the app locally
 
